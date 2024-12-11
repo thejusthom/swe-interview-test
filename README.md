@@ -1,6 +1,6 @@
 # swe-interview-test
 
-## Installation & Launch Instructions 🚀
+## Installation & Launch Instructions for Frontend and Backend
 
 ### Backend Setup
 
