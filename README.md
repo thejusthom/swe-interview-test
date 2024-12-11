@@ -16,7 +16,7 @@
 
 4. **Start server**
    ```bash
-   npm start
+   node index.js
    ```
 
 > Backend server will run on http://localhost:5000
